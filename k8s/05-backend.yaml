@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: 871715985635.dkr.ecr.us-east-1.amazonaws.com/fixboard/backend:8aab376
+          image: 871715985635.dkr.ecr.us-east-1.amazonaws.com/fixboard/backend:0c54a66
           ports:
             - containerPort: 3000
           envFrom:
