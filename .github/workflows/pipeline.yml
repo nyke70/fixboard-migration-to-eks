@@ -7,14 +7,14 @@ on:
       - "backend/**"
       - "frontend/**"
       - "sonar-project.properties"
-      - ".github/workflows/ci.yaml"
+      - ".github/workflows/pipeline.yml"
   push:
     branches: [main]
     paths:
       - "backend/**"
       - "frontend/**"
       - "sonar-project.properties"
-      - ".github/workflows/ci.yaml"
+      - ".github/workflows/pipeline.yml"
 
 permissions:
   contents: read
