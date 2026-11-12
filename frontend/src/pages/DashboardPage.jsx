@@ -48,7 +48,7 @@ export default function DashboardPage() {
       <div>
         <h1 className="text-2xl font-semibold tracking-tight text-text">Dashboard</h1>
         <p className="mt-1 text-sm text-text-muted">
-          Browse troubleshooting threads from your cohort.
+          Welcome to Fixboard. Browse troubleshooting threads from your cohort.
         </p>
       </div>
 
